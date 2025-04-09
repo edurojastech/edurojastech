@@ -43,7 +43,6 @@ Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu tr
 Atualmente compartilho minha jornada como dev + lifestyle tech:
 
 🔗 Instagram: [@edurojas.tech](https://instagram.com/edurojas.tech)  
-💻 Projeto atual: **[Codeverso](https://github.com/edurojastech/codeverso)** – Um universo de dicas, conteúdo e aprendizado sobre programação frontend.
 
 ---
 
