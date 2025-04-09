@@ -8,7 +8,7 @@ Sou um desenvolvedor web focado em **Front-End**, com sólida experiência em **
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **[vue-app-fullstack](https://github.com/edurojastech/vue-app-fullstack)**: Aplicação fullstack desenvolvida com Vue.js e Vuetify no frontend, e Node.js no backend.&#8203;:contentReference[oaicite:2]{index=2}
+- **[vue-app-fullstack](https://github.com/edurojastech/vue-app-fullstack)**: Aplicação fullstack desenvolvida com Vue.js e Vuetify no frontend, e Node.js no backend}
 
 - **[netflix_clone](https://github.com/edurojastech/netflix_clone)**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
 
