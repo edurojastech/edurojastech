@@ -1,35 +1,67 @@
-# Olá, eu sou o Eduardo Rojas! 👋
+# 👨‍💻 Eduardo Rojas
 
-## Sobre Mim
+### Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
 
-Sou um desenvolvedor web focado em **Front-End**, com sólida experiência em **HTML**, **CSS** e **JavaScript**. Tenho paixão por criar interfaces intuitivas e responsivas, proporcionando a melhor experiência possível aos usuários. Atualmente, estou aprimorando minhas habilidades em **React.js** e explorando novas tecnologias para expandir meu conjunto de habilidades.
-
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- **[vue-app-fullstack](https://github.com/edurojastech/vue-app-fullstack)**: Aplicação fullstack desenvolvida com Vue.js e Vuetify no frontend, e Node.js no backend}
-
-- **[netflix_clone](https://github.com/edurojastech/netflix_clone)**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-
-- **[estudos_js](https://github.com/edurojastech/estudos_js)**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-
-- **[generator-rgb](https://github.com/edurojastech/generator-rgb)**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-
-- **[imc-app](https://github.com/edurojastech/imc-app)**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-
-## Tecnologias e Ferramentas
-
-- **Front-End**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Back-End**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- **Outras Ferramentas**: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-
-## Contato
-
-- **Website**: [eduardorojas.com.br](https://eduardorojas.com.br)
-- **LinkedIn**: [in/edurojastech](https://www.linkedin.com/in/edurojastech)
-- **Instagram**: [@edurojas.tech](https://www.instagram.com/edurojas.tech)
-
-Sinta-se à vontade para entrar em contato ou colaborar em algum projeto. Estou sempre aberto a novas oportunidades e parcerias!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=github&logoColor=white)](https://eduardorojas.com.br)
 
 ---
+
+## 💡 Sobre mim
+
+Olá! Me chamo **Eduardo Rojas**, sou **Frontend Developer** com mais de 5 anos de experiência, especializado em React.js, Vue.js e Node.js. Tenho expertise em criar interfaces responsivas, escaláveis e de fácil usabilidade, sempre priorizando boas práticas e otimização de performance.
+
+Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu trabalho como **freelancer** e criador de conteúdo técnico.
+
+---
+
+## 🛠️ Tecnologias que trabalho
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔥 [**IMC App**](https://github.com/edurojastech/imc-app) – Calculadora de IMC com JS puro e layout responsivo.
+- 🎬 [**Netflix Clone**](https://github.com/edurojastech/netflix_clone) – Clone da interface da Netflix feito com Vue.js.
+- 🌈 [**Generator RGB**](https://github.com/edurojastech/generator-rgb) – Geração de cores RGB via input e preview.
+- 📚 [**Estudos JavaScript**](https://github.com/edurojastech/estudos_js) – Anotações e experimentos com JS moderno.
+- 🌐 [**Vue App Fullstack**](https://github.com/edurojastech/vue-app-fullstack) – Projeto com Vue.js e Node.js fullstack.
+
+---
+
+## ✍️ Conteúdo e projetos paralelos
+
+Atualmente compartilho minha jornada como dev + lifestyle tech:
+
+🔗 Instagram: [@edurojas.tech](https://instagram.com/edurojas.tech)  
+💻 Projeto atual: **[Codeverso](https://github.com/edurojastech/codeverso)** – Um universo de dicas, conteúdo e aprendizado sobre programação frontend.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edurojastech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurojastech&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Se você curte tecnologia, estilo de vida saudável, livros e programação, bora trocar ideia!
+
+📩 Me chama no [LinkedIn](https://www.linkedin.com/in/edurojastech) ou no Insta: [@edurojas.tech](https://www.instagram.com/edurojas.tech)
+
+---
+
+> “Disciplina é o que separa o amador do profissional.” 🚀
