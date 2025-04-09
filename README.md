@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor web focado em **Front-End**, com sólida experiência em **HTML**, **CSS** e **JavaScript**. Tenho paixão por criar interfaces intuitivas e responsivas, proporcionando a melhor experiência possível aos usuários. Atualmente, estou aprimorando minhas habilidades em **Vue.js** e explorando novas tecnologias para expandir meu conjunto de habilidades.
+Sou um desenvolvedor web focado em **Front-End**, com sólida experiência em **HTML**, **CSS** e **JavaScript**. Tenho paixão por criar interfaces intuitivas e responsivas, proporcionando a melhor experiência possível aos usuários. Atualmente, estou aprimorando minhas habilidades em **React.js** e explorando novas tecnologias para expandir meu conjunto de habilidades.
 
 ## Projetos Destacados
 
