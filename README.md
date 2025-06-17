@@ -1,9 +1,12 @@
 # 👨‍💻 Eduardo Rojas
 
 <div align="center">
-  <img src="https://eduardorojas.com.br/assets/logoEdu.svg" />
+  <img width="240px" src="https://eduardorojas.com.br/assets/logoEdu.svg" />
+  <br/>
+  Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
 </div>
-### Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
