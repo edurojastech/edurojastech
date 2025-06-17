@@ -3,14 +3,11 @@
   <br/>
   Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
   <br/>
-  <div>
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
-    [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
-    [![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=github&logoColor=white)](https://eduardorojas.com.br)
-  </div>
 </div>
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=github&logoColor=white)](https://eduardorojas.com.br)
 ---
 
 ## 💡 Sobre mim
