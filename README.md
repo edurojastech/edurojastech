@@ -1,16 +1,12 @@
-# 👨‍💻 Eduardo Rojas
-
 <div align="center">
   <img width="240px" src="https://eduardorojas.com.br/assets/logoEdu.svg" />
-  <br/>
+  <br/><br/>
   Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
+  <br/><br/>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
+  [![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=github&logoColor=white)](https://eduardorojas.com.br)
 </div>
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edurojas.tech)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=github&logoColor=white)](https://eduardorojas.com.br)
 
 ---
 
