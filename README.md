@@ -1,7 +1,7 @@
 <div align="center">
   <img width="240px" src="https://eduardorojas.com.br/assets/logoEdu.svg" />
   <br/>
-  Desenvolvedor Frontend | Apaixonado por tecnologia, performance e boas interfaces.
+  Programador Web Frontend | Apaixonado por tecnologia 
   <br/>
 </div>
 
