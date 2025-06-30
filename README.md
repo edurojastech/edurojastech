@@ -12,7 +12,7 @@
 
 ## 💡 Sobre mim
 
-Olá! Me chamo **Eduardo Rojas**, sou **Frontend Developer** com mais de 5 anos de experiência, especializado em desenvolviento web com React.js, Vue.js e Node.js. Tenho expertise em criar interfaces responsivas, escaláveis e de fácil usabilidade, sempre priorizando boas práticas e otimização.
+Olá! Me chamo **Eduardo Rojas**, sou **Frontend Developer** com mais de 5 anos de experiência, especializado em desenvolviento web com Javascript e frameworks como React.js, Vue.js e Node.js. Tenho expertise em criar interfaces responsivas, escaláveis e de fácil usabilidade, sempre priorizando boas práticas e otimização.
 
 Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu trabalho como **freelancer** e criador de conteúdo técnico.
 
