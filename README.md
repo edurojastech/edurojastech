@@ -27,6 +27,8 @@ Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu tr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![React.js](https://img.shields.io/badge/-React.js-66CCFF?style=flat-square&logo=react&logoColor=000)
+
 
 ---
 
