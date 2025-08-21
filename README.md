@@ -30,18 +30,6 @@ Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu tr
 ![React.js](https://img.shields.io/badge/-React.js-66CCFF?style=flat-square&logo=react&logoColor=000)
 
 
----
-
-## 📌 Projetos em destaque
-
-- 🔥 [**IMC App**](https://github.com/edurojastech/imc-app) – Calculadora de IMC com JS puro e layout responsivo.
-- 🎬 [**Netflix Clone**](https://github.com/edurojastech/netflix_clone) – Clone da interface da Netflix feito com Vue.js.
-- 🌈 [**Generator RGB**](https://github.com/edurojastech/generator-rgb) – Geração de cores RGB via input e preview.
-- 📚 [**Estudos JavaScript**](https://github.com/edurojastech/estudos_js) – Anotações e experimentos com JS moderno.
-- 🌐 [**Vue App Fullstack**](https://github.com/edurojastech/vue-app-fullstack) – Projeto com Vue.js e Node.js fullstack.
-
----
-
 ## ✍️ Conteúdo e projetos paralelos
 
 Atualmente compartilho minha jornada como dev + lifestyle tech:
