@@ -12,9 +12,24 @@
 
 ## 💡 Sobre mim
 
-Olá! Me chamo **Eduardo Rojas**, sou **Frontend Developer** com mais de 5 anos de experiência, especializado em desenvolviento web com Javascript e frameworks como React.js, Vue.js e Node.js. Tenho expertise em criar interfaces responsivas, escaláveis e de fácil usabilidade, sempre priorizando boas práticas e otimização.
+Sou Desenvolvedor Frontend com mais de 5 anos de experiência, atuando na criação de interfaces modernas, performáticas e escaláveis. Ao longo da minha trajetória, desenvolvi sistemas web, dashboards, plataformas white-label, PDVs, landing pages e aplicações corporativas, atendendo empresas como Goritek, WiseByte, Woli, TeclaT, WGSN, Nagro e PrismaFS.
 
-Atualmente estudo **React.js**, **JavaScript avançado** e busco expandir meu trabalho como **freelancer** e criador de conteúdo técnico.
+Trabalho de forma próxima a times de produto, design e backend, sempre focado em qualidade técnica, experiência do usuário e entrega de valor ao negócio, utilizando metodologias ágeis como Scrum e Kanban.
+
+Tecnologias e habilidades do meu dia a dia:
+✔️ Desenvolvimento com React / Next.js e Vue.js / Nuxt.js
+✔️ JavaScript (ES6+) e TypeScript
+✔️ HTML, CSS, Flexbox, CSS Grid e Sass
+✔️ Tailwind CSS, Bootstrap, Material UI e Styled Components
+✔️ Integrações com APIs REST e GraphQL
+✔️ Node.js e Express para suporte e integrações frontend
+✔️ Criação de dashboards, interfaces complexas e componentes reutilizáveis
+✔️ Performance, SEO e boas práticas de frontend
+✔️ Git, GitHub, NPM e Yarn
+✔️ UX/UI e implementação fiel de protótipos no Figma
+✔️ Landing pages orientadas à conversão, marketing e tráfego pago
+✔️ Clean Code, SOLID, padronização de código e onboarding de desenvolvedores
+✔️ Metodologias ágeis: Scrum e Kanban
 
 ---
 
