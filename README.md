@@ -25,6 +25,7 @@ Trabalho de forma próxima a times de produto, design e backend, sempre focado e
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React.js](https://img.shields.io/badge/-React.js-66CCFF?style=flat-square&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-typescript-1572B6?style=flat-square&logo=typescript&logoColor=fff)
 
 ✔️ Desenvolvimento com React / Next.js e Vue.js / Nuxt.js <br />
 ✔️ JavaScript (ES6+) e TypeScript<br />
