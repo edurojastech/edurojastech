@@ -16,14 +16,14 @@ Sou Desenvolvedor Frontend com mais de 5 anos de experiência, atuando na criaç
 
 Trabalho de forma próxima a times de produto, design e backend, sempre focado em qualidade técnica, experiência do usuário e entrega de valor ao negócio, utilizando metodologias ágeis como Scrum e Kanban.
 
-Tecnologias e habilidades do meu dia a dia:
-✔️ Desenvolvimento com React / Next.js e Vue.js / Nuxt.js
-✔️ JavaScript (ES6+) e TypeScript
-✔️ HTML, CSS, Flexbox, CSS Grid e Sass
-✔️ Tailwind CSS, Bootstrap, Material UI e Styled Components
-✔️ Integrações com APIs REST e GraphQL
-✔️ Node.js e Express para suporte e integrações frontend
-✔️ Criação de dashboards, interfaces complexas e componentes reutilizáveis
+Tecnologias e habilidades do meu dia a dia: <br />
+✔️ Desenvolvimento com React / Next.js e Vue.js / Nuxt.js <br />
+✔️ JavaScript (ES6+) e TypeScript<br />
+✔️ HTML, CSS, Flexbox, CSS Grid e Sass<br />
+✔️ Tailwind CSS, Bootstrap, Material UI e Styled Components<br />
+✔️ Integrações com APIs REST e GraphQL <br />
+✔️ Node.js e Express para suporte e integrações frontend <br />
+✔️ Criação de dashboards, interfaces complexas e componentes reutilizáveis<br />
 ✔️ Performance, SEO e boas práticas de frontend
 ✔️ Git, GitHub, NPM e Yarn
 ✔️ UX/UI e implementação fiel de protótipos no Figma
