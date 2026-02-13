@@ -16,7 +16,16 @@ Sou Desenvolvedor Frontend com mais de 5 anos de experiência, atuando na criaç
 
 Trabalho de forma próxima a times de produto, design e backend, sempre focado em qualidade técnica, experiência do usuário e entrega de valor ao negócio, utilizando metodologias ágeis como Scrum e Kanban.
 
-Tecnologias e habilidades do meu dia a dia: <br />
+## 🛠️ Tecnologias que trabalho
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![React.js](https://img.shields.io/badge/-React.js-66CCFF?style=flat-square&logo=react&logoColor=000)
+
 ✔️ Desenvolvimento com React / Next.js e Vue.js / Nuxt.js <br />
 ✔️ JavaScript (ES6+) e TypeScript<br />
 ✔️ HTML, CSS, Flexbox, CSS Grid e Sass<br />
@@ -32,18 +41,6 @@ Tecnologias e habilidades do meu dia a dia: <br />
 ✔️ Metodologias ágeis: Scrum e Kanban<br />
 
 ---
-
-## 🛠️ Tecnologias que trabalho
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![React.js](https://img.shields.io/badge/-React.js-66CCFF?style=flat-square&logo=react&logoColor=000)
-
 
 ## ✍️ Conteúdo e projetos paralelos
 
