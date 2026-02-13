@@ -24,12 +24,12 @@ Tecnologias e habilidades do meu dia a dia: <br />
 ✔️ Integrações com APIs REST e GraphQL <br />
 ✔️ Node.js e Express para suporte e integrações frontend <br />
 ✔️ Criação de dashboards, interfaces complexas e componentes reutilizáveis<br />
-✔️ Performance, SEO e boas práticas de frontend
-✔️ Git, GitHub, NPM e Yarn
-✔️ UX/UI e implementação fiel de protótipos no Figma
-✔️ Landing pages orientadas à conversão, marketing e tráfego pago
-✔️ Clean Code, SOLID, padronização de código e onboarding de desenvolvedores
-✔️ Metodologias ágeis: Scrum e Kanban
+✔️ Performance, SEO e boas práticas de frontend <br />
+✔️ Git, GitHub, NPM e Yarn <br />
+✔️ UX/UI e implementação fiel de protótipos no Figma <br />
+✔️ Landing pages orientadas à conversão, marketing e tráfego pago <br />
+✔️ Clean Code, SOLID, padronização de código e onboarding de desenvolvedores  <br />
+✔️ Metodologias ágeis: Scrum e Kanban<br />
 
 ---
 
