@@ -1,4 +1,6 @@
 <div align="center">
+  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/7254540d-fea4-4ef9-8fd5-f2c93971da29" />
+
   <img width="240px" src="https://eduardorojas.com.br/assets/logoEdu.svg" />
   <br/>
   Programador Web Frontend
