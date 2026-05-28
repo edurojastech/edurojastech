@@ -1,10 +1,6 @@
-<div align="center">
-  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/7254540d-fea4-4ef9-8fd5-f2c93971da29" />
 
-  <img width="240px" src="https://eduardorojas.com.br/assets/logoEdu.svg" />
-  <br/>
-  Programador Web Frontend
-  <br/>
+<div align="center">
+  <img width="2048" height="768" alt="ChatGPT Image 27 de mai  de 2026, 23_39_21" src="https://github.com/user-attachments/assets/2100a233-b7ed-4cf6-8d62-ed51fc46e482" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edurojastech)
